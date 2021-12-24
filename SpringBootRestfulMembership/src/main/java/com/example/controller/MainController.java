@@ -24,7 +24,7 @@ import lombok.extern.slf4j.Slf4j;
 public class MainController {
 	
 	
-	//RESTful 방식은 리던방식 map
+	//RESTful 방식은 리턴방식 map
 	
 	@Autowired
 	private MemberService memberService;
